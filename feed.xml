@@ -4,11 +4,11 @@
 
 <channel>
     <title>Chat Lab Podcast</title>
-    <atom:link href="https://kahfree.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://kahfree.github.io/podcast.html</link>
+    <atom:link href="https://chatlabpodcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://chatlabpodcast.github.io/</link>
     <description>This is Chat Lab, where thoughts are tested &amp; subjects are studied.</description>
     <pubDate>Thu, 16 Jul 2020 23:59:09 +0200</pubDate>
-    <generator>https://kahfree.github.io</generator>
+    <generator>https://chatlabpodcast.github.io/</generator>
     <language>en</language>
         <copyright>Copyright 2020 All rights reserved.</copyright>
     <category>Leisure</category>
@@ -32,21 +32,21 @@
     <image>
         <url>https://i.imgur.com/3PjArAL.png</url>
         <title>Chat Lab Podcast</title>
-        <link>https://kahfree.github.io/podcast.html</link>
+        <link>https://chatlabpodcast.github.io/</link>
         <width>144</width>
         <height>144</height>
     </image>
     <item>
         <title>How Did We Meet | Chat Lab Ep.3</title>
         <itunes:title>How Did We Meet | Chat Lab Ep.3</itunes:title>
-        <link>https://kahfree.github.io/podcast.html</link>
-        <comments>https://kahfree.github.io/podcast.html</comments>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
         <pubDate>Thu, 23 Jul 2020 22:12:45 +0200</pubDate>
-        <guid isPermaLink="false">kahfree.github.io/c420d690-254c-08gd-38hd-48fh20k27f10</guid>
+        <guid isPermaLink="false">chatlabpodcast.github.io/c420d690-254c-08gd-38hd-48fh20k27f10</guid>
                     <description><![CDATA[<p>In today's episode, Evan & Ethan describe meeting their first friend as well as meeting each other, their past hobbies, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
                         <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan describe meeting their first friend as well as meeting each other, their past hobbies, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
                     
-        <enclosure url="https://kahfree.github.io/assets/podcastEpisodes/ChatLabEp3.mp3" length="55578259" type="audio/mpeg"/>
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp3.mp3" length="55578259" type="audio/mpeg"/>
         <itunes:subtitle>In today's episode, Evan &amp; Ethan describe meeting their first friend as well as meeting each other, their past hobbies, &amp; more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
         <itunes:summary>In today's episode, Evan &amp; Ethan describe meeting their first friend as well as meeting each other, their past hobbies, &amp; more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
         <itunes:author>Chat Lab</itunes:author>
@@ -59,14 +59,14 @@
     <item>
         <title>Our Job Experiences | Chat Lab Ep.2</title>
         <itunes:title>Our Job Experiences | Chat Lab Ep.2</itunes:title>
-        <link>https://kahfree.github.io/podcast.html</link>
-        <comments>https://kahfree.github.io/podcast.html</comments>
+        <link>https://chatlabpodcast.github.io</link>
+        <comments>https://chatlabpodcast.github.io</comments>
         <pubDate>Thu, 16 Jul 2020 23:59:09 +0200</pubDate>
         <guid isPermaLink="false">ChatLab.podbean.com/b755d100-0c9a-5f0a-8cea-1c94138ee63c</guid>
                     <description><![CDATA[<p>Join Evan & Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire & more!</p>]]></description>
                         <content:encoded><![CDATA[<p>Join Evan & Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire & more!</p>]]></content:encoded>
                     
-        <enclosure url="https://kahfree.github.io/assets/podcastEpisodes/ChatLabEp2.mp3" length="55578259" type="audio/mpeg"/>
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp2.mp3" length="55578259" type="audio/mpeg"/>
         <itunes:subtitle>Join Evan &amp; Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire &amp; more!</itunes:subtitle>
         <itunes:summary>Join Evan &amp; Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire &amp; more!</itunes:summary>
         <itunes:author>Chat Lab</itunes:author>
@@ -79,14 +79,14 @@
     <item>
         <title>What is the best sleeping position? | Chat Lab Ep.1</title>
         <itunes:title>What is the best sleeping position? | Chat Lab Ep.1</itunes:title>
-        <link>https://kahfree.github.io/podcast.html</link>
-        <comments>https://kahfree.github.io/podcast.html</comments>
+        <link>https://chatlabpodcast.github.io</link>
+        <comments>https://chatlabpodcast.github.io</comments>
         <pubDate>Fri, 10 Jul 2020 00:14:19 +0200</pubDate>
         <guid isPermaLink="false">ChatLab.podbean.com/33387445-7ff0-5241-9836-4654bde15ab9</guid>
                     <description><![CDATA[<p>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages & more!</p>]]></description>
                         <content:encoded><![CDATA[<p>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages & more!</p>]]></content:encoded>
                     
-        <enclosure url="https://kahfree.github.io/assets/podcastEpisodes/ChatLabPilot.mp3" length="55731232" type="audio/mpeg"/>
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabPilot.mp3" length="55731232" type="audio/mpeg"/>
         <itunes:subtitle>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages &amp; more!</itunes:subtitle>
         <itunes:summary>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages &amp; more!</itunes:summary>
         <itunes:author>Chat Lab</itunes:author>
