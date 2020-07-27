@@ -10,6 +10,28 @@
         <link rel="stylesheet" href="css/styles.css" type="text/css">
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="jQueryAudioUI/Clean-Audio-Player-jQuery/css/audioplayer.css">
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+	        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+	        crossorigin="anonymous">
+	</script>
+
+    <script src="jQueryAudioUI/Clean-Audio-Player-jQuery/js/audioplayer.js"></script>
+    
+    <script>
+        $(function(){
+            $('audio').audioPlayer();
+        });
+
+        $('audio').audioPlayer({
+	  classPrefix: 'audioplayer',
+	  strPlay: '',
+	  strPause: '',
+	  strVolume: ''
+	    });
+    </script>
     </head>
 
     <body>
@@ -34,7 +56,6 @@
         </nav>
         
         <img src="images/chatLabBanner.png" alt="Beaker with green liquid releasing chat bubbles with chat lab in black font underneath" id="heroImage">
-        <h3 id="tagline">The place where thoughts are tested and subjects are studied.</h3>
 
         
             <h2 id="sectionHeader">Episodes</h2>
