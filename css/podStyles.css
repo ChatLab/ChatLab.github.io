@@ -6,18 +6,10 @@ body{
 }
 
 #heroImage{
-    margin:auto;
+    margin:4.5em auto auto auto;
     position: relative;
     width:100%;
     z-index: -1;
-}
-
-#tagline{
-    position: absolute;
-    z-index: 1;
-    margin-top:-7em;
-    margin-left:20em;
-    color:white;
 }
 
 #sectionHeader{
