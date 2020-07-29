@@ -15,6 +15,8 @@ body{
 #sectionHeader{
     font-size:3em;
     margin-left:15%;
+    margin-top:1em;
+    margin-bottom:0.5em;
 }
 
 .episode{
@@ -30,5 +32,12 @@ body{
     border-radius: 0%;
     background-color:black;
     
+}
+
+#NavLogo{
+    width:1.5em;
+    padding:0;
+    margin:0;
+    margin-right: 5%;
 }
 
