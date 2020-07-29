@@ -6,7 +6,7 @@
     <title>Chat Lab Podcast</title>
     <atom:link href="https://chatlabpodcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://chatlabpodcast.github.io/</link>
-    <description>This is Chat Lab, where thoughts are tested &amp; subjects are studied.</description>
+    <description>This is Chat Lab, where thoughts are tested.</description>
     <pubDate>Thu, 16 Jul 2020 23:59:09 +0200</pubDate>
     <generator>https://chatlabpodcast.github.io/</generator>
     <language>en</language>
@@ -14,7 +14,7 @@
     <category>Leisure</category>
     <ttl>1440</ttl>
     <itunes:type>episodic</itunes:type>
-    <itunes:subtitle>The podcast where thoughts are tested and subjects are studied</itunes:subtitle>
+    <itunes:subtitle>The podcast where thoughts are tested.</itunes:subtitle>
     <itunes:summary/>
     <itunes:author>Chat Lab</itunes:author>
 <itunes:category text="Leisure"/>
