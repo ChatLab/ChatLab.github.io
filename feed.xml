@@ -4,6 +4,8 @@
 
 <channel>
     <title>Chat Lab Podcast</title>
+    <email>chatlabbusiness@gmail.com</email>
+    <guid>thoughtsAreTested</guid>
     <atom:link href="https://chatlabpodcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://chatlabpodcast.github.io/</link>
     <description>This is Chat Lab, where thoughts are tested.</description>
