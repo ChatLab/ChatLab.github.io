@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="https://chatlabpodcast.github.io/" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>Chat Lab Podcast</title>
+    <atom:link href="https://chatlabpodcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://chatlabpodcast.github.io/</link>
+    <description>This is Chat Lab, where thoughts are tested.</description>
+    <pubDate>Thu, 16 Jul 2020 23:59:09 +0200</pubDate>
+    <generator>https://chatlabpodcast.github.io/</generator>
+    <language>en</language>
+        <copyright>Copyright 2020 All rights reserved.</copyright>
+    <category>Leisure</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>The podcast where thoughts are tested.</itunes:subtitle>
+    <itunes:summary/>
+    <itunes:author>Chat Lab</itunes:author>
+<itunes:category text="Leisure"/>
+<itunes:category text="TV &amp; Film"/>
+	<itunes:category text="Leisure">
+		<itunes:category text="Games"/>
+	</itunes:category>
+    <itunes:owner>
+        <itunes:name>Chat Lab</itunes:name>
+        <itunes:email>chatlabbusiness@gmail.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://i.imgur.com/3PjArAL.png"/>
+    <image>
+        <url>https://i.imgur.com/3PjArAL.png</url>
+        <title>Chat Lab Podcast</title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Jake Paul Got Raided!? | Chat Lab Ep.5</title>
+        <itunes:title>Jake Paul Got Raided!? | Chat Lab Ep.5</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 6 Aug 2020 19:27:40 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode5interruptioncentral</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss Jake Paul's situation, Our favourite way to unwind and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan discuss Jake Paul's situation, Our favourite way to unwind and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp5.mp3" length="57282114" type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss Jake Paul's situation, Our favourite way to unwind and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss Jake Paul's situation, Our favourite way to unwind and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>51:23</itunes:duration>
+                <itunes:episode>5</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    </item>
+    <item>
+        <title>Our Career Goals | Chat Lab Ep.4</title>
+        <itunes:title>Our Career Goals | Chat Lab Ep.4</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Sat, 1 Aug 2020 14:14:14 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/c420d690-224c-08gd-38hd-48fh20k27f10</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss their future career goals, if video games are a waste of time and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan discuss their future career goals, if video games are a waste of time and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp4.mp3" length="59972970" type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss their future career goals, if video games are a waste of time and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss their future career goals, if video games are a waste of time and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>50:36</itunes:duration>
+                <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    </item>
+
+    <item>
+        <title>How Did We Meet | Chat Lab Ep.3</title>
+        <itunes:title>How Did We Meet | Chat Lab Ep.3</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 23 Jul 2020 22:12:45 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/c420d690-254c-08gd-38hd-48fh20k27f10</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan describe meeting their first friend as well as meeting each other, their past hobbies, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan describe meeting their first friend as well as meeting each other, their past hobbies, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp3.mp3" length="55578259" type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan describe meeting their first friend as well as meeting each other, their past hobbies, &amp; more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan describe meeting their first friend as well as meeting each other, their past hobbies, &amp; more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>57:35</itunes:duration>
+                <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    </item>
+    <item>
+        <title>What is the best sleeping position? | Chat Lab Ep.1</title>
+        <itunes:title>What is the best sleeping position? | Chat Lab Ep.1</itunes:title>
+        <link>https://chatlabpodcast.github.io</link>
+        <comments>https://chatlabpodcast.github.io</comments>
+        <pubDate>Fri, 10 Jul 2020 00:14:19 +0200</pubDate>
+        <guid isPermaLink="false">ChatLab.podbean.com/33387445-7ff0-5241-9836-4654bde15ab9</guid>
+                    <description><![CDATA[<p>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages & more!</p>]]></description>
+                        <content:encoded><![CDATA[<p>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages & more!</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabPilot.mp3" length="55731232" type="audio/mpeg"/>
+        <itunes:subtitle>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages &amp; more!</itunes:subtitle>
+        <itunes:summary>This is Chat Lab, where we thoughts are tested and subjects are studied. Join Evan and Ethan in their first-ever podcast episode, discussing sleep, learning new languages &amp; more!</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>58:03</itunes:duration>
+             item>
+        <title>Our Job Experiences | Chat Lab Ep.2</title>
+        <itunes:title>Our Job Experiences | Chat Lab Ep.2</itunes:title>
+        <link>https://chatlabpodcast.github.io</link>
+        <comments>https://chatlabpodcast.github.io</comments>
+        <pubDate>Thu, 16 Jul 2020 23:59:09 +0200</pubDate>
+        <guid isPermaLink="false">ChatLab.podbean.com/b755d100-0c9a-5f0a-8cea-1c94138ee63c</guid>
+                    <description><![CDATA[<p>Join Evan & Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire & more!</p>]]></description>
+                        <content:encoded><![CDATA[<p>Join Evan & Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire & more!</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp2.mp3" length="55578259" type="audio/mpeg"/>
+        <itunes:subtitle>Join Evan &amp; Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire &amp; more!</itunes:subtitle>
+        <itunes:summary>Join Evan &amp; Ethan on today's podcast where they talk about their job experiences, streaming, qualities they desire &amp; more!</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>57:53</itunes:duration>
+                <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    </item>
+    <item>   <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    </item>
+</channel>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/><link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/><style type="text/css" id="dark-mode-custom-style"/></rss>
