@@ -36,13 +36,35 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 8-->
+    <item>
+        <title>Do Aliens Exist? (Deep Dive) | Chat Lab Ep.8</title>
+        <itunes:title>Do Aliens Exist? (Deep Dive) | Chat Lab Ep.8</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 27 Aug 2020 18:27:40 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6conspiracyTheorists</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss the outcome of colonising planets, the possibility of aliens, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan discuss the outcome of colonising planets, the possibility of aliens, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp8.mp3" length="53735370" type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss the outcome of colonising planets, the possibility of aliens, and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss the outcome of colonising planets, the possibility of aliens, and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>57:24</itunes:duration>
+                <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 7-->
     <item>
         <title>Our Top 10 Movies | Chat Lab Ep.7</title>
-        <itunes:title>Our Top 10 Movies | Chat Lab Ep.6</itunes:title>
+        <itunes:title>Our Top 10 Movies | Chat Lab Ep.7</itunes:title>
         <link>https://chatlabpodcast.github.io/</link>
         <comments>https://chatlabpodcast.github.io/</comments>
-        <pubDate>Thu, 13 Aug 2020 18:27:40 +0200</pubDate>
+        <pubDate>Thu, 20 Aug 2020 18:27:40 +0200</pubDate>
         <guid isPermaLink="false">chatlabpodcast.github.io/episode6movieConnoisseur</guid>
                     <description><![CDATA[<p>In today's episode, Evan & Ethan list their top 10 favourite movies, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
                         <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan list their top 10 favourite movies, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
