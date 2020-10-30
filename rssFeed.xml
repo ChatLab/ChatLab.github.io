@@ -36,6 +36,28 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 16-->
+    <item>
+        <title>Learning a New Language | Chat Lab Ep.16</title>
+        <itunes:title>Learning a New Language | Chat Lab Ep.16</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 29 Oct 2020 6:00:00 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6LearningFrenchAgain</guid>
+                    <description><![CDATA[<p>https://www.stjude.org/get-involved/other-ways/halloween-treats-online-card.html  In today's episode, Evan & Ethan talk about learning a new language, the importance of seperating work and leisure life, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>https://www.stjude.org/get-involved/other-ways/halloween-treats-online-card.html  In today's episode, Evan & Ethan talk about learning a new language, the importance of seperating work and leisure life, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp16.mp3" length="55799808 " type="audio/mpeg"/>
+        <itunes:subtitle>https://www.stjude.org/get-involved/other-ways/halloween-treats-online-card.html  In today's episode, Evan &amp; Ethan talk about learning a new language, the importance of seperating work and leisure life, and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>https://www.stjude.org/get-involved/other-ways/halloween-treats-online-card.html  In today's episode, Evan &amp; Ethan talk about learning a new language, the importance of seperating work and leisure life, and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>58:08</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 15-->
 <item>
         <title>The Social Dilemma | Chat Lab Ep.15</title>
