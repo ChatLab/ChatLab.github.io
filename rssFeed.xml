@@ -36,6 +36,28 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 19-->
+    <item>
+        <title>What is Our Personality Type? | Chat Lab Ep.19</title>
+        <itunes:title>What is Our Personality Type? | Chat Lab Ep.19</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 19 Nov 2020 4:00:00 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6personalityTypes</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss the new COD and Spider-man, their personality types, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethandiscuss the new COD and Spider-man, their personality types, and more! Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp19.mp3" length="99217482  " type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss the new COD and Spider-man, their personality types, and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss the new COD and Spider-man, their personality types, and more! Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1:43:22</itunes:duration>
+                <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 18-->
     <item>
         <title>Small Habits Make Big Differences | Chat Lab Ep.18</title>
