@@ -36,6 +36,28 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 23-->
+    <item>
+        <title>Working Part Time | Chat Lab Ep.23</title>
+        <itunes:title>Working Part Time | Chat Lab Ep.23</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 17 Dec 2020 15:00:00 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6AnyOfThePauls</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss random questions, getting close to finishing college, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan discuss random questions, getting close to finishing college, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp23.mp3" length="63083082  " type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss the Paul's boxing events, their experience with part time jobs, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss the Paul's boxing events, their experience with part time jobs, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1:05:43</itunes:duration>
+                <itunes:episode>23</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 22-->
     <item>
         <title>What Would You Do? | Chat Lab Ep.22</title>
