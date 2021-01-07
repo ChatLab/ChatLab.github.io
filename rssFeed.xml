@@ -36,6 +36,28 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 24-->
+    <item>
+        <title>We're Back! | Chat Lab Ep.24</title>
+        <itunes:title>We're Back! | Chat Lab Ep.24</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 17 Dec 2020 15:00:00 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6BackInBlack</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan catch up after their 2 week break, discuss fitness, VR, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan catch up after their 2 week break, discuss fitness, VR, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp24.mp3" length="69267456  " type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan catch up after their 2 week break, discuss fitness, VR, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan catch up after their 2 week break, discuss fitness, VR, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1:12:09</itunes:duration>
+                <itunes:episode>24</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 23-->
     <item>
         <title>Working Part Time | Chat Lab Ep.23</title>
