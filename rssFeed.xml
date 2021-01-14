@@ -36,13 +36,35 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 25-->
+    <item>
+        <title>The Afterlife | Chat Lab Ep.25</title>
+        <itunes:title>The Afterlife | Chat Lab Ep.25</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 14 Jan 2021 15:00:00 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6TheAfterlife</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss becoming financially literate, thoughts on the afterlife, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan discuss becoming financially literate, thoughts on the afterlife, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp25.mp3" length="60564810  " type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss becoming financially literate, thoughts on the afterlife, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss becoming financially literate, thoughts on the afterlife, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1:03:06</itunes:duration>
+                <itunes:episode>25</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 24-->
     <item>
         <title>We're Back! | Chat Lab Ep.24</title>
         <itunes:title>We're Back! | Chat Lab Ep.24</itunes:title>
         <link>https://chatlabpodcast.github.io/</link>
         <comments>https://chatlabpodcast.github.io/</comments>
-        <pubDate>Thu, 17 Dec 2020 15:00:00 +0200</pubDate>
+        <pubDate>Thu, 7 Jan 2021 15:00:00 +0200</pubDate>
         <guid isPermaLink="false">chatlabpodcast.github.io/episode6BackInBlack</guid>
                     <description><![CDATA[<p>In today's episode, Evan & Ethan catch up after their 2 week break, discuss fitness, VR, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
                         <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan catch up after their 2 week break, discuss fitness, VR, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
