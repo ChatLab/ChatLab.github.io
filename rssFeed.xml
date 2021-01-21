@@ -36,6 +36,28 @@
         <width>144</width>
         <height>144</height>
     </image>
+<!--Episode 26-->
+    <item>
+        <title>Should Children Have Technology | Chat Lab Ep.26</title>
+        <itunes:title>Should Children Have Technology | Chat Lab Ep.26</itunes:title>
+        <link>https://chatlabpodcast.github.io/</link>
+        <comments>https://chatlabpodcast.github.io/</comments>
+        <pubDate>Thu, 21 Jan 2021 15:00:00 +0200</pubDate>
+        <guid isPermaLink="false">chatlabpodcast.github.io/episode6TabletZombies</guid>
+                    <description><![CDATA[<p>In today's episode, Evan & Ethan discuss Evan starting college again next week, their opinions on children with technology, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></description>
+                        <content:encoded><![CDATA[<p>In today's episode, Evan & Ethan discuss Evan starting college again next week, their opinions on children with technology, and more!  Check out all our socials: https://linktr.ee/ChatLab</p>]]></content:encoded>
+                    
+        <enclosure url="https://chatlabpodcast.github.io/episodes/ChatLabEp26.mp3" length="64877514   " type="audio/mpeg"/>
+        <itunes:subtitle>In today's episode, Evan &amp; Ethan discuss Evan starting college again next week, their opinions on children with technology, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:subtitle>
+        <itunes:summary>In today's episode, Evan &amp; Ethan discuss Evan starting college again next week, their opinions on children with technology, and more!  Check out all our socials: https://linktr.ee/ChatLab</itunes:summary>
+        <itunes:author>Chat Lab</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1:07:35</itunes:duration>
+                <itunes:episode>26</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://i.imgur.com/3PjArAL.png"/>    
+    </item>
 <!--Episode 25-->
     <item>
         <title>The Afterlife | Chat Lab Ep.25</title>
